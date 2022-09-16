@@ -1,1 +1,1 @@
-web: gunicorn Proekt.app:server --pythonpath=Proekt
+web: gunicorn Proekt.wsgi
